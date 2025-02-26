@@ -12,4 +12,10 @@ DB_HOST = localhost
 DB_PORT = 5432  
 
 2. Ejecutar el siguiente commando:
-   python manage.py migrate 
+   python manage.py migrate
+4. python manage.py runserver
+
+   URLS activos:
+   
+   http://127.0.0.1:8000/categorias/
+   http://127.0.0.1:8000/productos/

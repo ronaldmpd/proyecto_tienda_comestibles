@@ -18,4 +18,5 @@ DB_PORT = 5432
    URLS activos:
    
    http://127.0.0.1:8000/categorias/
+   
    http://127.0.0.1:8000/productos/
